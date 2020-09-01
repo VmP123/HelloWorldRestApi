@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+1t+W6rCBm/bdvNT7KZLl62Vdvpez/jGGchtf3tbZnmBwHdUlGBdABqZwR8bpDllJboR5RVijxQmoZIVDqDw6w==",
+  "dgSpecHash": "TJYLIAAsB9+bptWMc4GhOQ8ORlsCR/wuZHSuutt3mtwziyNFiWi4vK1+OWNl7CZouc7JsVaSqLX2t2iaAvR5hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ville-Matti\\source\\repos\\HelloWorldRestApi\\HelloWorldRestApi\\HelloWorldRestApi.csproj",
+  "projectFilePath": "D:\\GitHub\\HelloWorldRestApi\\HelloWorldRestApi\\HelloWorldRestApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

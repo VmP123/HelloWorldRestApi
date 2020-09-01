@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ville-Matti\\source\\repos\\HelloWorldRestApi\\HelloWorldRestApi\\HelloWorldRestApi.csproj",
+      "projectUniqueName": "D:\\GitHub\\HelloWorldRestApi\\HelloWorldRestApi\\HelloWorldRestApi.csproj",
       "projectName": "HelloWorldRestApi",
-      "projectPath": "C:\\Users\\Ville-Matti\\source\\repos\\HelloWorldRestApi\\HelloWorldRestApi\\HelloWorldRestApi.csproj",
+      "projectPath": "D:\\GitHub\\HelloWorldRestApi\\HelloWorldRestApi\\HelloWorldRestApi.csproj",
       "packagesPath": "C:\\Users\\Ville-Matti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ville-Matti\\source\\repos\\HelloWorldRestApi\\HelloWorldRestApi\\obj\\",
+      "outputPath": "D:\\GitHub\\HelloWorldRestApi\\HelloWorldRestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ville-Matti\\AppData\\Roaming\\NuGet\\NuGet.Config",
